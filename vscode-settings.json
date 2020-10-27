@@ -1,0 +1,13 @@
+// vscode settings.json
+{
+    "workbench.startupEditor": "none",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "workbench.sideBar.location":"left",
+    "telemetry.enableTelemetry": false,
+    "editor.cursorBlinking": "solid",
+    "window.zoomLevel": -1,
+    "workbench.tree.indent": 12,
+    "workbench.colorTheme": "Morass Contrast (rainglow)",
+    "editor.minimap.enabled": false,
+}
